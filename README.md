@@ -32,4 +32,4 @@ File index:
 
 09_single_core.sh - a bash loop to run x number of FEFLOW command line runs, one FEFLOW run at a time.
 
-10_02_linux_compilation.pdf - how to compile IFM plug-ins in Linux environment
+10_linux_compilation.pdf - how to compile IFM plug-ins in Linux 
