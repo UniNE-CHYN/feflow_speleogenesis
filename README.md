@@ -1,3 +1,11 @@
+The code was developed as part of PhD research at the centre for hydrogeology and geothermics of the University of Neuchatel.
+
+Thesis summary
+
+  Caves are important since they are preferential paths for groundwater ﬂow. Knowledge of caves or karst is essential for proper management of water resources, but the exploration of caves is a major challenge. An alternative to study caves and their structure is to simulate the processes related to cave growth. The motivation of this thesis is to study large karst networks in the region of Tulum, Mexico. The objective of the study is to understand how and why the cave systems formed in this region.
+    The first step was to do a review of the information available on the study area. During field work in the study area we observed the propagation of the sea tidal wave into the karst network. This observation lead to question what would be the effect of tidal induced water exchange between caves and surrounding limestone. A conceptual model and a numerical model were developed to quantify dissolution in these conditions. Results show that water exchange can lead to significant mineral dissolution, or cave growth. This dissolution process is additional to dissolution occurring at cave wall surface, therefore the superposition of both dissolution process may explain the fast paced cave growth rate needed to explain the large karst networks in the area.
+    Additionally, a numerical model framework was developed to simulate the development of fractures into conduit networks. The simulation of development of synthetic networks can provide insight on the development of real caves.
+   
 # Electronic version of thesis: 
 
 http://doc.rero.ch/record/305441
