@@ -1,3 +1,7 @@
+# Electronic version of thesis: 
+
+http://doc.rero.ch/record/305441
+
 # porosity_frkn
 
 IFM plug-in to modify porosity, conductivity and storage based on a reaction declared in the FEFLOW reaction kinetics editor, it works on 2D and 3D models. 
