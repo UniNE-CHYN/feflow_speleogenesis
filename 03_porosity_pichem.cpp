@@ -425,9 +425,9 @@ calculate_new_por:										// goto label coming from line 209 (goto calculate_n
 
 	/* 3.2 */
 	for (int sp = 0; sp < nspecies; sp++) {							// START of loop to visit all chemical species
-		IfmSetMultiSpeciesId(pDoc, sp);								// Set active species index to force FEFLOW operating on species index ‘sp’
+		IfmSetMultiSpeciesId(pDoc, sp);								// Set active species index to force FEFLOW operating on species index Â‘spÂ’
 
-		for (int elem = 0; elem < ne; elem++) {							// START of loop to visit all mesh elements for current species ‘sp’ 
+		for (int elem = 0; elem < ne; elem++) {							// START of loop to visit all mesh elements for current species Â‘spÂ’ 
 			// Careful! elem = 1 in FeFlow GUI is elem = 0 here 	
 			/* 3.3 - Get nodal concentrations of 'reaction product' for element 'elem' */
 
