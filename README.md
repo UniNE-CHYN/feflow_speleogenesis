@@ -4,7 +4,7 @@ IFM plug-in to modify porosity, conductivity and storage based on a reaction dec
 
 files:
 
-1)
-2)
+1)  porosity_frked.cpp
+2) 	porosity_frked.cpp
 
 # porosity_pichem
