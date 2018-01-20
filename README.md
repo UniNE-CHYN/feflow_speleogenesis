@@ -2,6 +2,8 @@
 
 IFM plug-in to modify porosity, conductivity and storage based on a reaction declared in the FEFLOW reaction kinetics editor
 
+00_porosity_evolution_plug-in.pdf
+
 01_porosity_frked.cpp
 
 02_porosity_frked.dll
